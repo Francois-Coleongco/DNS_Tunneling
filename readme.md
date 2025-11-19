@@ -68,4 +68,4 @@ pip install -r requirements.txt
 Go into the ipynb file, and run everything past cell 2!
 
 
--## Exportation will be done when I have my ESP32 ready to hook up as an Access Point
+*Exportation will be done when I have my ESP32 ready to hook up as an Access Point*
