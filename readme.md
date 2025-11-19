@@ -9,7 +9,7 @@ This project demonstrates a proof-of-concept Multi-Layer Perceptron (MLP) for de
 Attackers often use DNS as a covert channel to exfiltrate data because:
 
 - DNS is widely used and typically allowed through firewalls.
-- Subdomains can carry encoded data (e.g., Base64).
+- Subdomains can carry encoded data (e.g., Base58 / Base32).
 - DNS traffic is rarely monitored, making it ideal for stealthy exfiltration.
 
 This project reproduces the DNS tunneling detection pipeline inspired by Splunk's approach.
