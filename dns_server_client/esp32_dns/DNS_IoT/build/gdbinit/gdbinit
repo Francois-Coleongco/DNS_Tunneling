@@ -1,0 +1,2 @@
+source /home/soy/vault/DNS_Tunneling_MLP/dns_server_client/esp32_dns/DNS_IoT/build/gdbinit/symbols
+source /home/soy/vault/DNS_Tunneling_MLP/dns_server_client/esp32_dns/DNS_IoT/build/gdbinit/connect
